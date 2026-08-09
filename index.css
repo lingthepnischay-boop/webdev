@@ -1,0 +1,22 @@
+/* CSS Reset */  
+body {
+  background-color: gray;
+} 
+       
+       footer{
+            background-color: green;
+            height:400px;
+            color: white;
+        }
+        
+        .google-btn {
+        color: red;
+    padding: 8px 16px 8px 14px;
+    margin: 32px;
+}
+
+.facebook-btn {
+    color: blue;
+    padding: 12px 24px;
+    margin: 32px;
+}
